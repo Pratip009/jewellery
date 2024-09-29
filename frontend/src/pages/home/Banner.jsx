@@ -10,7 +10,7 @@ const Banner = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam
           impedit eos laboriosam magnam facilis illo soluta, quo nostrum autem
           dolorem fuga, neque ipsa perferendis. Reiciendis recusandae aspernatur
-          molestiae minus temporibus.
+          molestiae minus temporibu.
         </p>
         <button className="btn"><Link to="/shop">EXPLORE MORE</Link></button>
       </div>
